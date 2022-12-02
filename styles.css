@@ -4,3 +4,7 @@ h1{
 p{
     color: aquamarine;
 }
+.redblue{
+    color:red;
+    background-color: blue;
+}
